@@ -19,5 +19,8 @@
   "author": "MYMC <tech@makingyourmilescount.com>",
   "homepage": "https://github.com/thr-consulting/react-native-share-menu",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "react-native": "*"
+  }
 }
