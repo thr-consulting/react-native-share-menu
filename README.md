@@ -162,26 +162,3 @@ const Share = () => {
 AppRegistry.registerComponent("Test", () => Test);
 AppRegistry.registerComponent("ShareMenuModuleComponent", () => Share);
 ```
-
-Or check the "example" directory for an example application.
-
-## How it looks
-
-### Android
-
-<img src="screenshots/android-menu.png" width="47%"> <img src="screenshots/android-app.png" width="47%">
-
-### iOS
-
-<img src="screenshots/ios-share-view.gif" width="47%">
-
-## Releasing a new version
-
-`$ npm version <minor|major|patch> && npm publish`
-
-## Credits
-
-<!-- Please just append to this section instead of deleting -->
-
-* Between 2016 and 2023, sponsored by [Meedan](https://meedan.com) and created and developed by [Caio Almeida](https://ca.ios.ba)
-* iOS version supported by [Gustavo Parreira](https://github.com/Gustash)
